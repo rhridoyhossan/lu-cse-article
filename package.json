@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "generate:posts": "node scripts/generate-posts.js",
+    "check:posts": "node scripts/generate-posts.js --check"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  }
+}
