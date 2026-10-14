@@ -2,7 +2,7 @@
 title: "Getting Started with Markdown Blogging"
 description: "Learn how to write, format, and publish blog articles using Markdown and GitHub with a clean, lightweight workflow."
 author: "Author Name"
-date: "2026-10-14"
+date: "2026-10-14 (Must Be In [year-month-day] format)"
 category: "Technology"
 tags:
   - Markdown
