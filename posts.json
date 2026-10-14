@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "learning-with-small-steps",
+    "title": "Learning with Small Steps",
+    "description": "A simple way to make steady progress on challenging topics.",
+    "author": "TEST",
+    "date": "2026-10-15",
+    "category": "Learning",
+    "tags": [
+      "Study Tips",
+      "Learning"
+    ],
+    "published": false,
+    "featured": false
+  },
+  {
+    "slug": "first-git-commit",
+    "title": "Your First Git Commit",
+    "description": "A quick introduction to saving a project snapshot with Git.",
+    "author": "TEST",
+    "date": "2026-10-14",
+    "category": "Programming",
+    "tags": [
+      "Git",
+      "Beginner"
+    ],
+    "published": false,
+    "featured": false
+  },
+  {
+    "slug": "debugging-checklist",
+    "title": "A Tiny Debugging Checklist",
+    "description": "Three useful steps for finding the cause of a bug.",
+    "author": "TEST",
+    "date": "2026-10-13",
+    "category": "Programming",
+    "tags": [
+      "Debugging",
+      "Programming"
+    ],
+    "published": false,
+    "featured": false
+  }
+]
